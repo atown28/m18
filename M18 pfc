@@ -50,7 +50,7 @@ LB,Andre Randall,32,2006,56,73,66,60,67,68,0.5,1
 LB,Malik Jimmy,22,2016,79,72,80,56,64,64,0.5,1
 LB,Eli Blewitt,29,2009,65,77,55,58,55,69,0.5,1
 END_PLAYERS
-# The END_PLAYERS tag marks the end of one team's roster
+
 BAL Blackbirds,BAL
 QB,Omarr Mark,36,2003,84,71,64,84,80,62,7.7,3
 QB,Harry Dennis,28,2011,65,51,79,67,78,73,6.7,3
@@ -1032,7 +1032,7 @@ K,Damon Rodell,27,2012,65,76,83,77,71,80,1.6,2
 K,Brady Roman,28,2009,76,70,76,71,70,62,1.1,1
 S,Wayne Lucius,29,2008,84,64,76,92,80,81,7.1,3
 S,Omari William,25,2013,50,76,68,65,63,61,0.5,1
-CB,Dennis Lebron,21,2017,80,85,85,80,85,75,4.2,4
+CB,DaRon Banks,21,2017,80,85,85,80,85,75,4.2,4
 CB,Brady Malik,26,2011,82,54,60,71,87,75,2.9,1
 CB,Beckham Dick,24,2014,92,52,71,72,66,85,2.6,1
 CB,Terry Rodell,23,2015,52,76,53,71,85,64,2.4,2
